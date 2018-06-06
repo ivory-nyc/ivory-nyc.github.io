@@ -1,0 +1,14 @@
+---
+bg: "9wkAHHt.gif"
+layout: default
+crawlertitle: "LM BTW"
+title: "A Place for Nothing :)"
+summary: "home"
+---
+
+{% for post in site.posts limit: 5 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
