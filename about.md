@@ -4,7 +4,7 @@ layout: page
 title: "About Ivory"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: "About me and my passions"
+summary: "Me and my passions"
 active: about
 ---
 
