@@ -12,4 +12,6 @@ I have been a hairstylist for 20 years, and I love what I do more and more every
 
 I like connecting with people and seeing what hair style would suit them best.
 
-I believe sometimes little changes in the hair can make a big difference and create a huge impact
+I believe that sometimes, little changes in the hair can make big differences and have huge impacts.
+
+Thank you, I hope to see you soon!
