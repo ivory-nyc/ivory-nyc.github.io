@@ -1,19 +1,15 @@
 ---
-bg: "owl.jpg"
+bg: "DSC_5513.jpg"
 layout: page
-title: "About"
+title: "About Ivory"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: "About this blog"
+summary: "About me and my passions"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I have been a hairstylist for 20 years, and I love what I do more and more every day.
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I like connecting with people and seeing what hair style would suit them best.
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+I believe sometimes little changes in the hair can make a big difference and create a huge impact
