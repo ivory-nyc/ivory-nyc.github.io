@@ -4,7 +4,7 @@ layout: page
 title: "About"
 crawlertitle: "About Ivory, a hairstylist in New York City for 20 years and counting"
 permalink: /about/
-summary: "Me and my passions"
+summary: "My passion is ensuring you look your best"
 active: about
 ---
 
