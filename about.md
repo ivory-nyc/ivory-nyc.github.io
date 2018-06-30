@@ -2,7 +2,7 @@
 bg: "DSC_5513.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About Ivory, a hairstylist in New York City for 20 years and counting"
 permalink: /about/
 summary: "Me and my passions"
 active: about
