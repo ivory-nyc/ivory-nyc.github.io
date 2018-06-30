@@ -1,7 +1,7 @@
 ---
 bg: "DSC_5513.jpg"
 layout: page
-title: "About Ivory"
+title: "About"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
 summary: "Me and my passions"
